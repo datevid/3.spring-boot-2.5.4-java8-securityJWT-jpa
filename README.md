@@ -4,6 +4,7 @@ spring-boot-2.5.4-java8-securityJWT-jpa
 Características:
 - Spring boot 2.5.4
 - Java 1.8
+- Swagger
 - Spring security
 - Authentication
 - Authorization
